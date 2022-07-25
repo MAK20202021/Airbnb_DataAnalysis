@@ -5,7 +5,7 @@ This project is for Udacity Nanodegree Program (https://www.udacity.com/course/d
 ## Installation
 This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4)
 ## Project Motivation
-This project is for evaluating two data sets from Airbnb. One data set is for Boston in 2017 and another one is for Seattle in 2016. Evaluating these two data sets, we can answer the following questions:
+This project is a good example of CRISP-DM which is CROSS-Industry Standard Process for Data Mining. It focuses on the business understanding, data understanding, data preparation. This project is for evaluating two data sets from Airbnb. One data set is for Boston in 2017 and another one is for Seattle in 2016. Evaluating these two data sets, we can answer the following questions:
 - Evaluate the price comparison between Boston and Seattle airbnb during first half in a year?
 - How the price varies depending on the square feet of the home for both cities?
 - Does reviewer score depend on the price considering positive and negative reviews?
